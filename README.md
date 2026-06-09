@@ -1,3 +1,3 @@
 # primera-contribucion
 
-Ezte Archibo Ez el readme para este prollecto
+Este Archivo es el Readme para este proyecto
